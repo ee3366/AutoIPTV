@@ -6,7 +6,7 @@ from datetime import datetime
 # 定义要访问的多个URL
 urls = [
 
-    'https://livednow.com/migu/list?id=1673752860&token=nlpsE0F40DE3FB9F0E8419B2'，
+    'http://103.45.68.47:668/gy/m3u-txt.php?url=http://109.206.247.16:5000/tptv.m3u'，
     'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
 ]
 
