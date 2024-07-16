@@ -1,0 +1,119 @@
+更新时间,#genre#
+20240716,url
+
+
+上海频道,#genre#
+
+
+央视频道,#genre#
+CCTV-1,CCTV-10920624716500014K264
+CCTV-2,CCTV-10920624716500022658
+CCTV-3,CCTV-10920624716500034K264
+CCTV-4,CCTV-10920624716500042658
+CCTV-5,CCTV-10920624716500054K264
+CCTV-5+,CCTV-10920624716500052658
+CCTV-6,CCTV-10920624716500064K264
+CCTV-7,CCTV-10920624716500072658
+CCTV-8,CCTV-10920624716500084K264
+CCTV-9,CCTV-10920624716500092658
+CCTV-10,CCTV-109206247165000102658
+CCTV-11,http://109.206.247.16:5000/tptv/H265-5500k-1080P-cctv11?type=origin
+CCTV-12,CCTV-109206247165000122658
+CCTV-13,CCTV-109206247165000132658
+CCTV-14,CCTV-10920624716500014
+CCTV-15,http://109.206.247.16:5000/tptv/H265-5500k-1080P-cctv15?type=origin
+CCTV-16,CCTV-10920624716500016
+CCTV-17,CCTV-10920624716500017
+CCTV- 第一剧场,http://109.206.247.16:5000/tptv/G_DIYIJC-CQ?type=origin
+CCTV- 风云剧场,http://109.206.247.16:5000/tptv/G_FENGYUNJC-CQ?type=origin
+CCTV- 女性时尚,http://109.206.247.16:5000/tptv/G_NVXINGSS-CQ?type=origin
+CCTV- 央视台球,http://109.206.247.16:5000/tptv/G_TAIQIU-CQ?type=origin
+CCTV- 央视文化精品,CCTV-109206247165000
+CCTV- 风云足球,http://109.206.247.16:5000/tptv/G_FENGSHANGZQ-CQ?type=origin
+CCTV- 电视指南,http://109.206.247.16:5000/tptv/G_DIANSHIZN-CQ?type=origin
+CCTV- 风云音乐,http://109.206.247.16:5000/tptv/G_FENGYUNYY-CQ?type=origin
+CCTV- 高尔夫网球,CCTV-109206247165000
+CCTV- 怀旧剧场,http://109.206.247.16:5000/tptv/G_HUAIJIUJC-CQ?type=origin
+CCTV- 世界地理,http://109.206.247.16:5000/tptv/G_SHIJIEDL-CQ?type=origin
+CCTV- 兵器科技,http://109.206.247.16:5000/tptv/G_BINGQIKJ-CQ?type=origin
+CCTV-4K,CCTV-1092062471650004K
+
+
+卫视频道,#genre#
+三沙卫视,http://109.206.247.16:5000/tptv/G_SANSHA-HQ?type=origin
+东南卫视,http://109.206.247.16:5000/tptv/H265-5500k-1080P-dongnanstv?type=origin
+东方卫视,http://109.206.247.16:5000/tptv/G_DONGFANG-HD-265-8M?type=origin
+云南卫视,http://109.206.247.16:5000/tptv/G_YUNNAN-HQ?type=origin
+凤凰卫视中文,http://109.206.247.16:5000/tptv/HD-10000k-1080P-fhchinese5s?type=origin
+凤凰卫视资讯,http://109.206.247.16:5000/tptv/HD-10000k-1080P-fhzixun5s?type=origin
+凤凰卫视香港,http://109.206.247.16:5000/tptv/HD-10000k-1080P-fhhongkong5s?type=origin
+北京卫视,http://109.206.247.16:5000/tptv/G_BEIJING-HD-265-8M?type=origin
+吉林卫视,http://109.206.247.16:5000/tptv/G_JILIN-CQ?type=origin
+四川卫视,http://109.206.247.16:5000/tptv/G_SICHUAN-CQ?type=origin
+天津卫视,http://109.206.247.16:5000/tptv/G_TIANJIN-HD-265-8M?type=origin
+安徽卫视,http://109.206.247.16:5000/tptv/G_ANHUI-HD-265-8M?type=origin
+山东卫视,http://109.206.247.16:5000/tptv/G_SHANDONG-HD-265-8M?type=origin
+广东卫视,http://109.206.247.16:5000/tptv/G_GUANGDONG-HD-265-8M?type=origin
+江苏卫视,http://109.206.247.16:5000/tptv/G_JIANGSU-HD-265-8M?type=origin
+江西卫视,http://109.206.247.16:5000/tptv/G_JIANGXI-CQ?type=origin
+河北卫视,http://109.206.247.16:5000/tptv/G_HEBEI-CQ?type=origin
+河南卫视,http://109.206.247.16:5000/tptv/G_HENAN-CQ?type=origin
+浙江卫视,http://109.206.247.16:5000/tptv/G_ZHEJIANG-HD-265-8M?type=origin
+海南卫视,http://109.206.247.16:5000/tptv/HD-8000k-1080P-lvyoustv?type=origin
+深圳卫视,http://109.206.247.16:5000/tptv/G_SHENZHEN-HD-265-8M?type=origin
+湖北卫视,http://109.206.247.16:5000/tptv/G_HUBEI-HD-265-8M?type=origin
+湖南卫视,http://109.206.247.16:5000/tptv/G_HUNAN-HD-265-8M?type=origin
+贵州卫视,http://109.206.247.16:5000/tptv/G_GUIZHOU-CQ?type=origin
+辽宁卫视,http://109.206.247.16:5000/tptv/G_LIAONING-HD-265-8M?type=origin
+重庆卫视,http://109.206.247.16:5000/tptv/G_CHONGQING-CQ?type=origin
+黑龙江卫视,http://109.206.247.16:5000/tptv/G_HEILONGJIANG-HD-265-8M?type=origin
+
+
+体育频道,#genre#
+五星体育广播,https://fanmingming.com/fm?id=845
+北京体育广播,https://fanmingming.com/fm?id=359
+南京体育广播,https://fanmingming.com/fm?id=424
+咪咕综合体育,http://109.206.247.16:5000/tptv/HD-8000k-1080P-miguaoyun2?type=origin
+大连体育广播,https://fanmingming.com/fm?id=820
+山东体育休闲广播,https://fanmingming.com/fm?id=520
+秦皇岛体育音乐广播,https://fanmingming.com/fm?id=764
+精品体育,http://112.44.6.47:4022/udp/239.11.0.134:5140
+精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
+青岛音乐体育广播,https://fanmingming.com/fm?id=1005
+
+
+电影频道,#genre#
+
+
+电视剧频道,#genre#
+
+
+明星,#genre#
+
+
+主题片,#genre#
+
+
+港澳台,#genre#
+
+
+国际台,#genre#
+
+
+纪录片,#genre#
+
+
+动画片,#genre#
+
+
+戏曲频道,#genre#
+
+
+解说频道,#genre#
+
+
+综艺频道,#genre#
+
+
+春晚,#genre#
