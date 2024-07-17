@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="更新时间",20240716
+#EXTINF:-1 group-title="更新时间",20240717
 url
 #EXTINF:-1 group-title="央视频道",CCTV-1
 CCTV-10920624716500014K264
@@ -37,30 +37,30 @@ http://109.206.247.16:5000/tptv/H265-5500k-1080P-cctv15?type=origin
 CCTV-10920624716500016
 #EXTINF:-1 group-title="央视频道",CCTV-17
 CCTV-10920624716500017
-#EXTINF:-1 group-title="央视频道",CCTV- 第一剧场
-http://109.206.247.16:5000/tptv/G_DIYIJC-CQ?type=origin
-#EXTINF:-1 group-title="央视频道",CCTV- 风云剧场
-http://109.206.247.16:5000/tptv/G_FENGYUNJC-CQ?type=origin
-#EXTINF:-1 group-title="央视频道",CCTV- 女性时尚
-http://109.206.247.16:5000/tptv/G_NVXINGSS-CQ?type=origin
-#EXTINF:-1 group-title="央视频道",CCTV- 央视台球
-http://109.206.247.16:5000/tptv/G_TAIQIU-CQ?type=origin
-#EXTINF:-1 group-title="央视频道",CCTV- 央视文化精品
-CCTV-109206247165000
-#EXTINF:-1 group-title="央视频道",CCTV- 风云足球
-http://109.206.247.16:5000/tptv/G_FENGSHANGZQ-CQ?type=origin
-#EXTINF:-1 group-title="央视频道",CCTV- 电视指南
-http://109.206.247.16:5000/tptv/G_DIANSHIZN-CQ?type=origin
 #EXTINF:-1 group-title="央视频道",CCTV- 风云音乐
 http://109.206.247.16:5000/tptv/G_FENGYUNYY-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 第一剧场
+http://109.206.247.16:5000/tptv/G_DIYIJC-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 世界地理
+http://109.206.247.16:5000/tptv/G_SHIJIEDL-CQ?type=origin
 #EXTINF:-1 group-title="央视频道",CCTV- 高尔夫网球
 CCTV-109206247165000
 #EXTINF:-1 group-title="央视频道",CCTV- 怀旧剧场
 http://109.206.247.16:5000/tptv/G_HUAIJIUJC-CQ?type=origin
-#EXTINF:-1 group-title="央视频道",CCTV- 世界地理
-http://109.206.247.16:5000/tptv/G_SHIJIEDL-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 央视台球
+http://109.206.247.16:5000/tptv/G_TAIQIU-CQ?type=origin
 #EXTINF:-1 group-title="央视频道",CCTV- 兵器科技
 http://109.206.247.16:5000/tptv/G_BINGQIKJ-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 风云足球
+http://109.206.247.16:5000/tptv/G_FENGSHANGZQ-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 风云剧场
+http://109.206.247.16:5000/tptv/G_FENGYUNJC-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 女性时尚
+http://109.206.247.16:5000/tptv/G_NVXINGSS-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 电视指南
+http://109.206.247.16:5000/tptv/G_DIANSHIZN-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 央视文化精品
+CCTV-109206247165000
 #EXTINF:-1 group-title="央视频道",CCTV-4K
 CCTV-1092062471650004K
 #EXTINF:-1 group-title="卫视频道",三沙卫视
