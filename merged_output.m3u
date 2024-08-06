@@ -1,12 +1,130 @@
 #EXTM3U
-#EXTINF:-1 group-title="更新时间",20240805
+#EXTINF:-1 group-title="更新时间",20240806
 url
+#EXTINF:-1 group-title="央视频道",CCTV-1
+CCTV-10920624716500014K264
+#EXTINF:-1 group-title="央视频道",CCTV-2
+CCTV-10920624716500022658
+#EXTINF:-1 group-title="央视频道",CCTV-3
+CCTV-10920624716500034K264
+#EXTINF:-1 group-title="央视频道",CCTV-4
+CCTV-10920624716500042658
+#EXTINF:-1 group-title="央视频道",CCTV-5
+CCTV-10920624716500054K264
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+CCTV-10920624716500052658
+#EXTINF:-1 group-title="央视频道",CCTV-6
+CCTV-10920624716500064K264
+#EXTINF:-1 group-title="央视频道",CCTV-7
+CCTV-10920624716500072658
+#EXTINF:-1 group-title="央视频道",CCTV-8
+CCTV-10920624716500084K264
+#EXTINF:-1 group-title="央视频道",CCTV-9
+CCTV-10920624716500092658
+#EXTINF:-1 group-title="央视频道",CCTV-10
+CCTV-109206247165000102658
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://109.206.247.16:5000/tptv/H265-5500k-1080P-cctv11?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV-12
+CCTV-109206247165000122658
+#EXTINF:-1 group-title="央视频道",CCTV-13
+CCTV-109206247165000132658
+#EXTINF:-1 group-title="央视频道",CCTV-14
+CCTV-10920624716500014
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://109.206.247.16:5000/tptv/H265-5500k-1080P-cctv15?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV-16
+CCTV-10920624716500016
+#EXTINF:-1 group-title="央视频道",CCTV-17
+CCTV-10920624716500017
+#EXTINF:-1 group-title="央视频道",CCTV- 电视指南
+http://109.206.247.16:5000/tptv/G_DIANSHIZN-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 央视文化精品
+CCTV-109206247165000
+#EXTINF:-1 group-title="央视频道",CCTV- 央视台球
+http://109.206.247.16:5000/tptv/G_TAIQIU-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 风云音乐
+http://109.206.247.16:5000/tptv/G_FENGYUNYY-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 高尔夫网球
+CCTV-109206247165000
+#EXTINF:-1 group-title="央视频道",CCTV- 风云剧场
+http://109.206.247.16:5000/tptv/G_FENGYUNJC-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 兵器科技
+http://109.206.247.16:5000/tptv/G_BINGQIKJ-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 女性时尚
+http://109.206.247.16:5000/tptv/G_NVXINGSS-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 第一剧场
+http://109.206.247.16:5000/tptv/G_DIYIJC-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 风云足球
+http://109.206.247.16:5000/tptv/G_FENGSHANGZQ-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 世界地理
+http://109.206.247.16:5000/tptv/G_SHIJIEDL-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV- 怀旧剧场
+http://109.206.247.16:5000/tptv/G_HUAIJIUJC-CQ?type=origin
+#EXTINF:-1 group-title="央视频道",CCTV-4K
+CCTV-1092062471650004K
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://109.206.247.16:5000/tptv/G_SANSHA-HQ?type=origin
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://109.206.247.16:5000/tptv/H265-5500k-1080P-dongnanstv?type=origin
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://109.206.247.16:5000/tptv/G_DONGFANG-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://109.206.247.16:5000/tptv/G_YUNNAN-HQ?type=origin
+#EXTINF:-1 group-title="卫视频道",凤凰卫视中文
+http://109.206.247.16:5000/tptv/HD-10000k-1080P-fhchinese5s?type=origin
+#EXTINF:-1 group-title="卫视频道",凤凰卫视资讯
+http://109.206.247.16:5000/tptv/HD-10000k-1080P-fhzixun5s?type=origin
+#EXTINF:-1 group-title="卫视频道",凤凰卫视香港
+http://109.206.247.16:5000/tptv/HD-10000k-1080P-fhhongkong5s?type=origin
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://109.206.247.16:5000/tptv/G_BEIJING-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://109.206.247.16:5000/tptv/G_JILIN-CQ?type=origin
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://109.206.247.16:5000/tptv/G_SICHUAN-CQ?type=origin
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://109.206.247.16:5000/tptv/G_TIANJIN-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://109.206.247.16:5000/tptv/G_ANHUI-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://109.206.247.16:5000/tptv/G_SHANDONG-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://109.206.247.16:5000/tptv/G_GUANGDONG-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://109.206.247.16:5000/tptv/G_JIANGSU-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://109.206.247.16:5000/tptv/G_JIANGXI-CQ?type=origin
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://109.206.247.16:5000/tptv/G_HEBEI-CQ?type=origin
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://109.206.247.16:5000/tptv/G_HENAN-CQ?type=origin
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://109.206.247.16:5000/tptv/G_ZHEJIANG-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://109.206.247.16:5000/tptv/HD-8000k-1080P-lvyoustv?type=origin
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://109.206.247.16:5000/tptv/G_SHENZHEN-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://109.206.247.16:5000/tptv/G_HUBEI-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://109.206.247.16:5000/tptv/G_HUNAN-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://109.206.247.16:5000/tptv/G_GUIZHOU-CQ?type=origin
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://109.206.247.16:5000/tptv/G_LIAONING-HD-265-8M?type=origin
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://109.206.247.16:5000/tptv/G_CHONGQING-CQ?type=origin
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://109.206.247.16:5000/tptv/G_HEILONGJIANG-HD-265-8M?type=origin
 #EXTINF:-1 group-title="体育频道",五星体育广播
 https://fanmingming.com/fm?id=845
 #EXTINF:-1 group-title="体育频道",北京体育广播
 https://fanmingming.com/fm?id=359
 #EXTINF:-1 group-title="体育频道",南京体育广播
 https://fanmingming.com/fm?id=424
+#EXTINF:-1 group-title="体育频道",咪咕综合体育
+http://109.206.247.16:5000/tptv/HD-8000k-1080P-miguaoyun2?type=origin
 #EXTINF:-1 group-title="体育频道",大连体育广播
 https://fanmingming.com/fm?id=820
 #EXTINF:-1 group-title="体育频道",山东体育休闲广播
